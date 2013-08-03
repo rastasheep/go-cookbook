@@ -1,4 +1,4 @@
-# GO Cookbook
+# Go Cookbook
 
 Go Cookbook is a community run website for the CoffeeScript language.
 We want you to write recipes and make the site better!
