@@ -18,8 +18,8 @@ Want to help, but don't know where to start? Want a recipe, but don't know how t
 
 ## Authors
 
-Write recipes! Fork the repository, author some pages, and send us a pull request. For more information read the [Author's Guide](/authors-guide).
+Write recipes! Fork the repository, author some pages, and send us a pull request. For more information read the [Author's Guide]({{ site.baseurl }}/authors-guide).
 
 ## Developers
 
-Improve the code! Fork the repository, extend or improve the site coded, and send a pull request. For more information read the [Developer's Guide](/developers-guide).
+Improve the code! Fork the repository, extend or improve the site coded, and send a pull request. For more information read the [Developer's Guide]({{ site.baseurl }}/developers-guide).

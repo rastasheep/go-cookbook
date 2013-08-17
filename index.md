@@ -5,7 +5,7 @@ title: Welcome to the Go Cookbook!
 
 Useful Golang recipes for the community _by_ the community.
 
-Head over to the [contribute](/contributing) page and see what you can do to help out!
+Head over to the [contribute]({{ site.baseurl }}/contributing) page and see what you can do to help out!
 
 p.s.
 

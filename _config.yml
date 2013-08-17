@@ -1,6 +1,8 @@
 pygments: true
 lsi: false
 
+baseurl: /go-cookbook
+
 exclude:
   - README.md
   - CNAME

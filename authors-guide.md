@@ -5,7 +5,7 @@ title: Author's Guide
 
 ## tl;dr: Look at Other Recipes, and Blend In
 
-Look at the source of other recipe pages and follow that page structure. Start with the [Developer's Guide](/developers-guide) to get a test version of the cookbook up and running on your machine, and get to work!
+Look at the source of other recipe pages and follow that page structure. Start with the [Developer's Guide]({{ site.baseurl }}/developers-guide) to get a test version of the cookbook up and running on your machine, and get to work!
 
 ## General Guidelines
 
@@ -24,7 +24,7 @@ A typical cookbook page will have three sections (four if you count the title):
 
 ## Copyright Issues
 
-Do not post code that is copyrighted by another user, unless you have permission to use that code AND to relicense that code under the [CC BY 3.0](/license) license. If you DO have permission and the author would like credit, please show respect to them, they deserve it.
+Do not post code that is copyrighted by another user, unless you have permission to use that code AND to relicense that code under the [CC BY 3.0]({{ site.baseurl }}/license) license. If you DO have permission and the author would like credit, please show respect to them, they deserve it.
 
 ## Tag the page with Jekyll frontmatter
 
@@ -68,7 +68,7 @@ p.s. Include inline comments
 
 ## How to Add a Recipe
 
-Create a new markdown page (or copy the [Recipe Template](/recipe-template). The filename should be about the problem, e.g. `finding-last-day-of-the-month.md` or `reversing-arrays.md`. In your file, start with the following template:
+Create a new markdown page (or copy the [Recipe Template]({{ site.baseurl }}/recipe-template). The filename should be about the problem, e.g. `finding-last-day-of-the-month.md` or `reversing-arrays.md`. In your file, start with the following template:
 
 {% highlight text %}
 ---
