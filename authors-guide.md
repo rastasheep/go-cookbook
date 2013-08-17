@@ -68,7 +68,7 @@ p.s. Include inline comments
 
 ## How to Add a Recipe
 
-Create a new markdown page (or copy the [Recipe Template]({{ site.baseurl }}/recipe-template). The filename should be about the problem, e.g. `finding-last-day-of-the-month.md` or `reversing-arrays.md`. In your file, start with the following template:
+Create a new markdown page (template below). The filename should be about the problem, e.g. `finding-last-day-of-the-month.md` or `reversing-arrays.md`. In your file, start with the following template:
 
 {% highlight text %}
 ---
